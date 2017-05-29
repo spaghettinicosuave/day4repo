@@ -1,0 +1,78 @@
+#profile {
+  height: 75px;
+  background-color: #000;
+  margin-top: 45px;
+}
+
+#buttons {
+  margin-top: 45px;
+}
+
+#button-one {
+  height: 20px;
+  background-color: #000;
+}
+
+#button-two {
+  height: 20px;
+  background-color: #000;
+  margin-left: 35px;
+}
+
+#button-three {
+  height: 20px;
+  background-color: #000;
+  margin-left: 35px;
+}
+
+#big-content {
+  height: 400px;
+  background-color: #000;
+  margin-top: 45px;
+}
+
+#description {
+  height: 20px;
+  background-color: #000;
+  margin-top: 45px;
+}
+
+#content-set-one {
+  margin-top: 25px;
+}
+
+#content-set-two {
+  margin-top: 45px;
+}
+
+#small-content-one {
+  height: 200px;
+  background-color: #000;
+
+}
+
+#small-content-two {
+  height: 200px;
+  background-color: #000;
+
+}
+
+#mini-content-one {
+  height: 200px;
+  background-color: #000;
+}
+
+#mini-content-two {
+  height: 200px;
+  background-color: #000;
+}
+
+#mini-content-three {
+  height: 200px;
+  background-color: #000;
+}
+
+#mini-content-four {
+  height: 200px;
+  background-color: #000;
+}
